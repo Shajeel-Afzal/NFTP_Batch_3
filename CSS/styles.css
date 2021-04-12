@@ -1,0 +1,35 @@
+/* Type Selector */
+
+h1 {
+	background-color: green;
+	color: white;
+	padding: 20px;
+	font-family: Helvetica;
+	text-align: center;
+	/*vertical-align: */
+	text-decoration: blink;	
+	/*visibility: hidden;*/
+	/*display: none;*/
+	margin: 60px;	
+}
+
+/*ID Selector*/
+#paragraph {
+	background-color: gray;
+	color: white;
+	font-weight: 700;
+	text-align: center;
+}
+
+/*Class Selector*/
+.myclass {
+	background-color: yellow;
+	color: black;
+	padding: 50px;	
+}
+
+#testimonials_section .title {
+	background-color: purple;
+	color: white;
+	padding: 50px;	
+}
